@@ -74,13 +74,13 @@ Set your **Google Generative AI API key** using an environment variable.
 ### **CLI Version**
 
 ```bash
-python index.py
+python streamlit_app.py
 ```
 
 ### **Streamlit Web Interface**
 
 ```bash
-streamlit run app.py
+streamlit streamlit_app.py
 ```
 
 ## 🔧 Available AI Tools
